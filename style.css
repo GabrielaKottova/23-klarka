@@ -1,4 +1,4 @@
-n /*
+ /*
 .ctverecek {
   transition: transform 2s 0s, background-color 1s 0.5s, border-radius 2s 0.5s;
   
@@ -31,10 +31,6 @@ n /*
 }
 */
 
-body{
-  background-image: url(obrazky/html-css-klarka2.png);
-  background-color: black;
-}
 
 .ctverecek1 {
   width: 100%;
@@ -101,9 +97,11 @@ body{
 }
 
 body {
-  background-color: papayawhip;
+  
   margin: 0;
-  padding: 0;
+ 
+  background-image: url(obrazky/html-css-klarka2.png);
+  background-repeat: no-repeat;
 }
 
 
