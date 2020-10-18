@@ -1,4 +1,4 @@
-/*
+n /*
 .ctverecek {
   transition: transform 2s 0s, background-color 1s 0.5s, border-radius 2s 0.5s;
   
@@ -46,6 +46,11 @@ body{
   width: 300px;
   
 }
+.ctverecek1:click {
+  width: 300px;
+  
+}
+
 
 .ctverecek2 {
   width: 100%;
