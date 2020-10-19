@@ -39,14 +39,11 @@
   transition: width 2s;
 }
 
-.ctverecek1:hover {
+.ctverecek1:hover, .ctverecek1:active {
   width: 300px;
   
 }
-.ctverecek1:click {
-  width: 300px;
-  
-}
+
 
 
 .ctverecek2 {
@@ -56,12 +53,9 @@
   transition: width 2s;
 }
 
-.ctverecek2:click {
-  width: 300px;
-  
-}
 
-.ctverecek2:hover {
+
+.ctverecek2:hover, .ctverecek2:active {
   width: 300px;
 }
 
@@ -72,7 +66,7 @@
   transition: width 2s;
 }
 
-.ctverecek3:hover {
+.ctverecek3:hover, .ctverecek3:active {
   width: 300px;
 }
 
@@ -87,7 +81,7 @@
   transition: width 2s;
 }
 
-.ctverecek4:hover {
+.ctverecek4:hover, .ctverecek4:active {
   width: 300px;
 }
 
